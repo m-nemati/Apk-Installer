@@ -1,0 +1,54 @@
+D:\apk installer\new Apk installer\new Apk installer\bin\Debug\new Apk installer.exe
+D:\apk installer\new Apk installer\new Apk installer\bin\Debug\new Apk installer.pdb
+D:\apk installer\new Apk installer\new Apk installer\obj\Debug\new_Apk_installer.frmMain.resources
+D:\apk installer\new Apk installer\new Apk installer\obj\Debug\new_Apk_installer.Properties.Resources.resources
+D:\apk installer\new Apk installer\new Apk installer\obj\Debug\new Apk installer.csproj.GenerateResource.Cache
+D:\apk installer\new Apk installer\new Apk installer\obj\Debug\new Apk installer.exe
+D:\apk installer\new Apk installer\new Apk installer\obj\Debug\new Apk installer.pdb
+D:\apk installer\new Apk installer\new Apk installer\obj\Debug\new Apk installer.csprojResolveAssemblyReference.cache
+D:\apk installer\new Apk installer\new Apk installer\bin\Debug\Csharp.Apk-Reader.dll
+F:\Working\new Apk installer\new Apk installer\obj\Debug\new Apk installer.csprojAssemblyReference.cache
+F:\Working\new Apk installer\new Apk installer\obj\Debug\new_Apk_installer.frmMain.resources
+F:\Working\new Apk installer\new Apk installer\obj\Debug\new_Apk_installer.Properties.Resources.resources
+F:\Working\new Apk installer\new Apk installer\obj\Debug\new Apk installer.csproj.GenerateResource.cache
+F:\Working\new Apk installer\new Apk installer\obj\Debug\new Apk installer.exe
+F:\Working\new Apk installer\new Apk installer\obj\Debug\new Apk installer.pdb
+F:\Working\new Apk installer\new Apk installer\bin\Debug\new Apk installer.exe
+F:\Working\new Apk installer\new Apk installer\bin\Debug\new Apk installer.pdb
+F:\Working\new Apk installer\new Apk installer\obj\Debug\new Apk installer.csproj.CopyComplete
+F:\AppAndroid\new Apk installer\bin\Debug\new Apk installer.exe.config
+F:\AppAndroid\new Apk installer\bin\Debug\new Apk installer.exe
+F:\AppAndroid\new Apk installer\bin\Debug\new Apk installer.pdb
+F:\AppAndroid\new Apk installer\obj\Debug\new_Apk_installer.frmMain.resources
+F:\AppAndroid\new Apk installer\obj\Debug\new_Apk_installer.Properties.Resources.resources
+F:\AppAndroid\new Apk installer\obj\Debug\new Apk installer.csproj.GenerateResource.cache
+F:\AppAndroid\new Apk installer\obj\Debug\new Apk installer.csproj.CopyComplete
+F:\AppAndroid\new Apk installer\obj\Debug\new Apk installer.exe
+F:\AppAndroid\new Apk installer\obj\Debug\new Apk installer.pdb
+F:\AppAndroid\new Apk installer\obj\Debug\new Apk installer.csprojAssemblyReference.cache
+F:\AppAndroid\new Apk installer\bin\Debug\SharpAdbClient.dll
+F:\AppAndroid\new Apk installer\bin\Debug\SharpAdbClient.pdb
+D:\Compressed\source\APP2\new Apk installer\bin\Debug\new Apk installer.exe.config
+D:\Compressed\source\APP2\new Apk installer\bin\Debug\new Apk installer.exe
+D:\Compressed\source\APP2\new Apk installer\bin\Debug\new Apk installer.pdb
+D:\Compressed\source\APP2\new Apk installer\bin\Debug\SharpAdbClient.dll
+D:\Compressed\source\APP2\new Apk installer\bin\Debug\SharpAdbClient.pdb
+D:\Compressed\source\APP2\new Apk installer\obj\Debug\new_Apk_installer.frmMain.resources
+D:\Compressed\source\APP2\new Apk installer\obj\Debug\new_Apk_installer.Properties.Resources.resources
+D:\Compressed\source\APP2\new Apk installer\obj\Debug\new Apk installer.csproj.GenerateResource.cache
+D:\Compressed\source\APP2\new Apk installer\obj\Debug\new Apk installer.csproj.CopyComplete
+D:\Compressed\source\APP2\new Apk installer\obj\Debug\new Apk installer.exe
+D:\Compressed\source\APP2\new Apk installer\obj\Debug\new Apk installer.pdb
+D:\Compressed\source\APP2\new Apk installer\obj\Debug\new Apk installer.csprojAssemblyReference.cache
+F:\APP2\new Apk installer\bin\Debug\new Apk installer.exe.config
+F:\APP2\new Apk installer\bin\Debug\new Apk installer.exe
+F:\APP2\new Apk installer\bin\Debug\new Apk installer.pdb
+F:\APP2\new Apk installer\bin\Debug\SharpAdbClient.dll
+F:\APP2\new Apk installer\bin\Debug\SharpAdbClient.pdb
+F:\APP2\new Apk installer\obj\Debug\new Apk installer.csprojAssemblyReference.cache
+F:\APP2\new Apk installer\obj\Debug\new_Apk_installer.frmMain.resources
+F:\APP2\new Apk installer\obj\Debug\new_Apk_installer.Properties.Resources.resources
+F:\APP2\new Apk installer\obj\Debug\new Apk installer.csproj.GenerateResource.cache
+F:\APP2\new Apk installer\obj\Debug\new Apk installer.csproj.CopyComplete
+F:\APP2\new Apk installer\obj\Debug\new Apk installer.exe
+F:\APP2\new Apk installer\obj\Debug\new Apk installer.pdb
